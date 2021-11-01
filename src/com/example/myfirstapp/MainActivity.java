@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+
 	private EditText text;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
